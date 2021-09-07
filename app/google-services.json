@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "595955309977",
+    "firebase_url": "https://water-sensor-85def-default-rtdb.firebaseio.com",
+    "project_id": "water-sensor-85def",
+    "storage_bucket": "water-sensor-85def.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595955309977:android:92bcca136ce91353340708",
+        "android_client_info": {
+          "package_name": "tech.abdullah.watersensor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595955309977-lop25lib3pmoolbmu6fmlvnh9brc50ik.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tech.abdullah.watersensor",
+            "certificate_hash": "b29094a433cb4475c816ed66bbe61844727299bf"
+          }
+        },
+        {
+          "client_id": "595955309977-p87tk0fdfpmi46o2nrc3dsquqbueol0l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-YH0bEQzHRBUp_JBPsHRQofOuPB_001s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595955309977-p87tk0fdfpmi46o2nrc3dsquqbueol0l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
